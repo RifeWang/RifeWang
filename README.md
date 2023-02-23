@@ -5,6 +5,7 @@
 ## ⭐ I am RifeWang
 
 - 🧑‍💻 A back-end software developer.
+- ❤️ Love node.js and go, good at elasticsearch and kubernetes.
 - 🏠 Currently working and living in Hangzhou, China.
 - 💬 You can communicate technical issues with me through my WeChat: [rifewang](./Wechat-rifewang.jpeg)
 
