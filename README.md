@@ -1,20 +1,26 @@
-# 👋🏻 Hey there
+# 👋🏻 大家好
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RifeWang)   [![Gmail](https://img.shields.io/badge/-rifewang@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rifewang@gmail.com)](mailto:rifewang@gmail.com)
 
-## ⭐ I am RifeWang
+## ⭐ 我是凌虚
 
-- 🧑‍💻 A back-end software developer.
-- ❤️ Love node.js and go, good at elasticsearch and kubernetes.
-- 🏠 Currently working and living in Hangzhou, China.
-- 💬 You can communicate technical issues with me through my WeChat: [rifewang](./Wechat-rifewang.jpeg)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RifeWang)   [![Gmail](https://img.shields.io/badge/-rifewang@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rifewang@gmail.com)](mailto:rifewang@gmail.com)
 
-## 🛠 My Tech Stack
+- 🧑‍💻 一名软件开发工程师与系统架构师。
+- 🌐 我曾经主导的项目服务于数百万用户，应对日均千万级流量，管理数十亿级别的图片。
+- 🔥 目前正在互联网医疗器械与医疗服务领域的公司深耕，希望用技术造福大众。
+- ❤️ 热爱 `Node.js` 和 `Golang`, 擅长 `Elasticsearch` 和 `Kubernetes`.
+- 🏠 目前工作并生活在杭州。
+- 💬 有任何问题都可以与我微信 [rifewang](./Wechat-rifewang.jpeg) 交流。
+
+## 🛠 我的技术栈
 
 - 💻 &#160; ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)    ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
-- 🌐 &#160; ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=Elasticsearch)  ![ClickHouse](https://img.shields.io/badge/-ClickHouse-333333?style=flat&logo=ClickHouse)
 - 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- ☁️ &#160; ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- 🌐 &#160; ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=Elasticsearch)  ![ClickHouse](https://img.shields.io/badge/-ClickHouse-333333?style=flat&logo=ClickHouse)   ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
 
 <br>
 
