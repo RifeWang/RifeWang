@@ -1,7 +1,4 @@
 # 👋🏻 大家好
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RifeWang)   [![Gmail](https://img.shields.io/badge/-rifewang@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rifewang@gmail.com)](mailto:rifewang@gmail.com)
-
 ## ⭐ 我是凌虚
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RifeWang)   [![Gmail](https://img.shields.io/badge/-rifewang@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rifewang@gmail.com)](mailto:rifewang@gmail.com)
