@@ -5,7 +5,7 @@
 
 - 🧑‍💻 一名后端研发工程师与系统架构师。
 - 🌐 我曾经主导的互联网项目管理数十亿级别的图片。负责的脑科学领域项目应用于几十家医疗机构。
-- ❤️ 我擅长 `Node.js` 和 `Golang` 语言, 后端、大数据、云原生三项全能，拥有 `系统架构设计师`、`Elasticsearch` 和 `Kubernetes` 等官方技术认证。
+- ❤️ 我擅长 `Node.js` 和 `Golang` 语言，后端、大数据、云原生三项全能，拥有 `系统架构设计师`、`Elasticsearch` 和 `Kubernetes` 等官方技术认证。
 - 🏠 个人博客：[https://lingxu.pages.dev](https://lingxu.pages.dev/)。
 - 💬 欢迎与我微信 [rifewang](./Wechat-rifewang.jpeg) 交流。
 
