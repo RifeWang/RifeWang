@@ -1,11 +1,11 @@
-# 👋🏻 我正在找工作 I am looking for a job
+
 ## ⭐ 我是凌虚
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RifeWang)   [![Gmail](https://img.shields.io/badge/-rifewang@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rifewang@gmail.com)](mailto:rifewang@gmail.com)
 
 - 🧑‍💻 一名后端研发工程师与系统架构师。
-- 🌐 我曾经主导的互联网项目管理数十亿级别的图片。负责的脑科学领域项目应用于几十家医疗机构。
-- ❤️ 我擅长 `Node.js` 和 `Golang` 语言，后端、大数据、云原生三项全能，拥有 `系统架构设计师`、`Elasticsearch` 和 `Kubernetes` 等官方技术认证。
+- 🌐 项目经历涉及互联网、脑科学、教育、AI 等等。
+- ❤️ 擅长 `Node.js`、`Golang`、大数据、云原生，拥有 `系统架构设计师`、`Elasticsearch` 和 `Kubernetes` 等官方技术认证。
 - 🏠 个人博客：[https://lingxu.pages.dev](https://lingxu.pages.dev/)。
 - 💬 欢迎与我微信 [rifewang](./Wechat-rifewang.jpeg) 交流。
 
